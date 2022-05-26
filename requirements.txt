@@ -8,5 +8,5 @@ MarkupSafe==1.0
 pytz==2018.5
 six==1.11.0
 Werkzeug==0.14.1
-tensorflow==1.14.0
+tensorflow==2.7.2
 keras==2.2.4
